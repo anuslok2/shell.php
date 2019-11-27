@@ -1,5 +1,5 @@
 <?php
-$users = array('admin'=>'secret_password'); // change this!
+$users = array('admin'=>'aw'); // change this!
 $home = realpath('.'); // config
 
 function authenticate($u) {
